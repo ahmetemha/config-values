@@ -1,0 +1,8 @@
+AppConfiguration:
+  applicationInformation:
+    name:"MyApp"
+    version:2
+  configs:
+    - "config1"
+    - "config2"
+  url: "https://example.com"
